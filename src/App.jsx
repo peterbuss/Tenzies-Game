@@ -1,6 +1,7 @@
 import React from "react"
 import Die from './components/Die'
 import {nanoid} from "nanoid"
+import './style.css'
 
 import Confetti from 'react-confetti'
 
